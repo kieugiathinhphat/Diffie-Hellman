@@ -50,3 +50,7 @@ Phân tích thừa số $n$:
 $$n = q_1^{e_1} q_2^{e_2} \dots q_k^{e_k}$$
 Với mỗi hệ số $q_i^{e_i}$, ta sẽ tìm $x \pmod{ q_i^{e_i}}$ ta khai triển $x$ theo hệ số $q$:
 $$x = a_0 + a_1.q + a_2.q^2 + ... + a_{e-1}.q^{e-1} \pmod {q^e}$$
+
+
+chó duyyyyyyy
+
